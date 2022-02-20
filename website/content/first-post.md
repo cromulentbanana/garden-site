@@ -1,18 +1,13 @@
 +++
-title = "First post"
-date = 2019-01-01
+title = "Hello Garden"
+date = 2022-02-20
 
 [taxonomies]
-categories = ["Odd"]
-tags = ["placeholder posts", "tag1"]
+categories = ["Something"]
+tags = ["garden"]
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-in culpa qui officia deserunt mollit anim id est laborum.
+Hello! This is an example post that could be sharing some info about the moabiter stadtgarten.
 
 <!-- more -->
 
