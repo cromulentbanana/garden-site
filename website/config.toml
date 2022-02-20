@@ -2,6 +2,7 @@
 base_url = "https://garden.badpacket.in"
 generate_rss = true
 compile_sass = true
+feed_filename = "rss.xml"
 
 title = "Moabiter Stadtgarten"
 description = "All the neem that's fit to plant."
@@ -12,13 +13,12 @@ taxonomies = [
 ]
 
 [extra]
-author = "Dave"
+author = "Dan"
 clean_blog_menu = [
     {url = "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/about", name = "About"},
     {url = "$BASE_URL/contact", name = "Contact"}
 ]
 clean_blog_social = [
-    {url = "https://twitter.com", icon="fab fa-twitter"},
     {url = "$BASE_URL/rss.xml", icon="fas fa-rss"}
 ]
