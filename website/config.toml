@@ -1,8 +1,9 @@
 # The URL the site will be built for
 base_url = "https://garden.badpacket.in"
-generate_rss = true
 compile_sass = true
 feed_filename = "rss.xml"
+generate_feed = true
+generate_rss = true
 
 title = "Moabiter Stadtgarten"
 description = "All the neem that's fit to plant."
