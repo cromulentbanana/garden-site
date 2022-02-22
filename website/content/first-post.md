@@ -7,7 +7,7 @@ categories = ["Something"]
 tags = ["garden"]
 +++
 
-Hello! This is an example post that could be sharing some info about the moabiter stadtgarten.
+Hello! This is an example post that could be sharing some info about the moabiter stadtgarten. We can easily add some sentences here.
 
 <!-- more -->
 
