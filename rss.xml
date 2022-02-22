@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Moabiter Stadtgarten</title>
+        <link>https://garden.badpacket.in</link>
+        <description>All the neem that&#x27;s fit to plant.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://garden.badpacket.in/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Hello Garden</title>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+            <link>https://garden.badpacket.in/first-post/</link>
+            <guid>https://garden.badpacket.in/first-post/</guid>
+            <description>&lt;p&gt;Hello! This is an example post that could be sharing some info about the moabiter stadtgarten. We can easily add some sentences here.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Hello Garden 2</title>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+            <link>https://garden.badpacket.in/second-post/</link>
+            <guid>https://garden.badpacket.in/second-post/</guid>
+            <description>&lt;p&gt;Hello! This is the second post.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
